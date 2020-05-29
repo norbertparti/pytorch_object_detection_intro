@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\skybo\\anaconda3\\python.exe"
+    "python.pythonPath": "C:\\Users\\skybo\\anaconda3\\python.exe",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "terminal.integrated.shellArgs.windows": ["/K", "C:\\Users\\skybo\\anaconda3\\Srcipts\\activate.bat C:\\Users\\skybo\\anaconda3"],    
 }
